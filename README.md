@@ -1,10 +1,14 @@
 # 💫 About Me:
-I am a Software Engineer with a deep passion for learning and innovation. I'm always eager to dive into new technologies and broaden my skill set. My drive is to explore cutting-edge tools and techniques, applying them to solve real-world challenges. 
+Hi, I'm Satish 👋  
+M.Tech student in Computer Science with experience in Java, Spring Boot, and backend development.  
+Interested in building REST APIs, working with databases, and improving backend performance.
 
+Leetcode: https://leetcode.com/u/Satish_Thakur_47 </br>
+GeeksForGeeks: https://practice.geeksforgeeks.org/leaderboard </br>
 HackerRank: https://www.hackerrank.com/profile/satish8628091822 </br>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/satish_thakur_347) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satish-thakur-7480a919b) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satish-thakur-7480a919b) 
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
